@@ -1,0 +1,7 @@
+# Cria um novo projeto Expo com o template "blank"
+pnpm dlx create-expo-app . --template blank
+
+# Instala as dependências do projeto para lidar com sensores do dispositivo
+pnpm expo install expo-sensors
+
+
